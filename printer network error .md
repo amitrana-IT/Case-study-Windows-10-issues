@@ -1,7 +1,7 @@
  # ISSUE 2
 ## Printer Not Appearing in Network
 
-## Websites to sole issue are: 
+## Websites to solve issue are: 
 
 ### * TechRadar
    
@@ -10,7 +10,7 @@ In the artricle mention how to setup network printer
 All steps are mention even the pictures are privided to maske it  more convinetnt .
 
 
-###*  Lifewire
+### *  Lifewire
 
 #### - https://www.lifewire.com/find-printer-on-windows-10-network-4586770
 
@@ -20,11 +20,12 @@ All steps are mention even the pictures are privided to maske it  more convinetn
 
 
  ### Discussion 
- TechRadar goes through troubleshooting steps for network printers;
+#### TechRadar
+ goes through troubleshooting steps for network printers;
  it checks that the printer is connected and drivers are installed properly
  That can also be done by removing and adding the printer in Windows settings, 
 
  
- According to Lifewire. 
+#### According to Lifewire. 
  I would follow that with asking her if her printer is correctly connected and if she could reinstall the printer drivers. 
  If it no longer appears, then I will have her enter settings within Windows herself and add the printer.
