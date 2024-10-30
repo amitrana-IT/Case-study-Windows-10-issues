@@ -4,11 +4,11 @@
 ## Websites to solve issue are :
 
 ### * How-To-Geek
-  - https://www.howtogeek.com/670939/10-quick-steps-to-increase-pc-performance/
+####  - https://www.howtogeek.com/670939/10-quick-steps-to-increase-pc-performance/
     When a computer is slow to boot up, a condition  is having too many startup programs.
      To fix this in Windows 10, press the Windows key, and then type (and select) Task Manager.
 ### * ANSWERS.MICROSOFT
-  -https://answers.microsoft.com/en-us/windows/forum/all/very-slow-win-10-boot-up/71397c59-d2a1-47a9-955a-657f890eb059
+ #### -https://answers.microsoft.com/en-us/windows/forum/all/very-slow-win-10-boot-up/71397c59-d2a1-47a9-955a-657f890eb059
   Remove unnecessary programs at startup: Type "msconfig" in the search box and press Enter.
    Go to the Startup tab and uncheck any program that you don't need to start when you turn on your computer.
 ##   Discussion:
